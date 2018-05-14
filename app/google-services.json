@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123161410004",
+    "firebase_url": "https://samsatnotif.firebaseio.com",
+    "project_id": "samsatnotif",
+    "storage_bucket": "samsatnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123161410004:android:4967d177f63145c4",
+        "android_client_info": {
+          "package_name": "com.dabudabu.samsatnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123161410004-b2sc5j81ur1lv1ppkqgh027ilrudbr3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dabudabu.samsatnotif",
+            "certificate_hash": "ab7a8596ad185faaf6744ce6d4366fe67b3d4bb0"
+          }
+        },
+        {
+          "client_id": "123161410004-ij2s0atoc7guvmrqd6tg7ltg2ik577ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznr8m5R05Lk-8Apd22Sq6WlDZeGZncL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123161410004-ij2s0atoc7guvmrqd6tg7ltg2ik577ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

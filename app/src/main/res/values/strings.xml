@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SamsatNotif</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_nama">Nama lengkap</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_jeniskendaraan">Jenis kendaraan</string>
+    <string name="hint_plat">Nomor kendaraan</string>
+    <string name="register_name">Daftar</string>
+
+    <string name="login_name">Masuk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="epostidef">Eposti adalah salah satu cara pembayaran yang biasa
+dilakukan oleh kalangan atas tanpa harus mengantri ataupun mendatangi Samsat. Tetapi
+dapat membayar melalui ATM Bank BPD yang sudah terdaftar dalam sistem Samsat.</string>
+    <string name="samsatdesadef">
+        Samsat Desa adalah program prioritas KApolri di bidang lalu lintas. Samsat Desa sendiri adalah terobosan polri untuk
+mendekatkan pelayanan pajak kendaraan bermotor yang tinggal jauh dari pusat kabupaten
+atau kota. Tanpa harus mendatangi samsat Kota untuk mengurus keperluan nya.
+    </string>
+    <string name="titleeposti">Definisi</string>
+</resources>
